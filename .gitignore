@@ -1,0 +1,9 @@
+.cursorindexingignore
+
+.project.json
+
+config.toml
+
+.vscode
+
+.claude/
